@@ -72,25 +72,29 @@ We combine **GenAI**, **ML**, and **Google’s powerful APIs** to deliver a full
 
 ---
 
-## 🧪 Run This Project
+## 🖥️ Backend (FastAPI - Python)
 
-### 🖥️ Backend (FastAPI - Python)
 1. Navigate to the `backend/` folder  
-2. Type `cmd` in the address bar to open terminal  
-3. Run:
+2. Type `cmd` in the address bar to open a terminal  
+3. Run the following command:
+
 ```bash
 uvicorn main:app --reload
+```
+
+---
 
 ## 🌐 Frontend (React + Vite)
 
-Your gateway to the Finspire experience is a lightweight, blazing-fast interface powered by modern web tools.
+Your gateway to the Finspire experience is a lightweight, blazing-fast interface powered by modern web technologies.
 
-**To run the frontend locally:**
+### **To run the frontend locally:**
 
 1. Navigate to the `frontend/` folder  
-2. Click on the address bar and type `cmd` to open your terminal  
+2. Type `cmd` in the address bar to open a terminal  
 3. Run the following commands:
 
 ```bash
-npm install       # Run this once to install dependencies  
-npm run dev       # Start the development server
+npm install     # Run this once to install dependencies
+npm run dev     # Start the development server
+```
