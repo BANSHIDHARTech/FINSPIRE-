@@ -82,6 +82,7 @@ We combine **GenAI**, **ML**, and **Google’s powerful APIs** to deliver a full
 uvicorn main:app --reload
 
 ---
+'''bash
 
 ## 🌐 Frontend (React + Vite)
 
