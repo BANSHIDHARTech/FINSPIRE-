@@ -81,9 +81,6 @@ We combine **GenAI**, **ML**, and **Google’s powerful APIs** to deliver a full
 ```bash
 uvicorn main:app --reload
 
----
-'''bash
-
 ## 🌐 Frontend (React + Vite)
 
 Your gateway to the Finspire experience is a lightweight, blazing-fast interface powered by modern web tools.
