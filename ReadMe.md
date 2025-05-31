@@ -101,7 +101,7 @@ npm run dev     # Start the development server
 
 ---
 ## 🚀 Deployed on Vercel ▲
-[website hosted on Vercel](https://finspire-ai.vercel.app/)
+[Check out our Website](https://finspire-ai.vercel.app/)
 
 ## ☁️ Google Drive Link 🔗
 [Drive Link](https://drive.google.com/drive/folders/1IloC9dPrQQqUPXQWvwd9N8aQfqcvc6-d?usp=sharing)
